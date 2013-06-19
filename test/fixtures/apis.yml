@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  endpoint_url: MyString
+  status: MyString
+  last_udpate: 2013-06-18 22:42:54
+
+two:
+  endpoint_url: MyString
+  status: MyString
+  last_udpate: 2013-06-18 22:42:54
