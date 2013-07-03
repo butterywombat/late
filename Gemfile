@@ -27,6 +27,7 @@ gem "activeadmin"
 
 # activeadmin requires
 gem "meta_search",    '>= 1.1.0.pre'
+
 #activeadmin fix
 gem 'jquery-rails', '2.3.0'
 
